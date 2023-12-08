@@ -1,0 +1,3 @@
+[submodule "berry-submodule"]
+	path = berry-submodule
+	url = https://github.com/chenhebing/berry-sdk-submodule.git
